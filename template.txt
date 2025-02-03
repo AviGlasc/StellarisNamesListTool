@@ -1,0 +1,239 @@
+﻿### NamesList for $listname
+### Created using Avi's Stellaris Names List Tool
+
+$listname = {
+	category = $categoryname
+	ship_names = {
+		generic = {
+			$shipgeneral
+		}
+		corvette = {
+			$shipcorvette
+		}
+		destroyer = {
+			$shipdestroyer
+		}
+		cruiser = {
+			$shipcruiser
+		}
+		battleship = {
+			$shipbattleship
+		}
+		titan = {
+			$shiptitan
+		}
+		colossus = {
+			$shipcolossus
+		}
+		juggernaut = {
+			$shipjuggernaut
+		}
+		science = {
+			$shipscience
+		}
+		colonizer = {
+			$shipcolonizer
+		}
+		constructor = {
+			$shipconstructor
+		}
+		transport = {
+			$shiptransport
+		}
+		military_station_small = {
+			$shipstarbase
+		}
+		ion_cannon = {
+			$shipioncannon
+		}
+	}
+	ship_class_names = {
+		generic = {
+
+		}
+	}
+	fleet_names = {
+		random_names = {
+			$fleetgeneral
+		}
+	}
+	army_names = {
+		generic = {
+			$armygeneral
+		}
+		defense_army = {
+			$armydefense
+		}
+		assault_army = {
+			$armyassault
+		}
+		slave_army = {
+			$armyslave
+		}
+		undead_army = {
+			$armyundead
+		}
+		clone_army = {
+			$armyclone
+		}
+		machine_defense = {
+			$armymachinedefence
+		}
+		robotic_army = {
+			$armyrobotic
+		}
+		robotic_defense_army = {
+			$armyroboticdefense
+		}
+		psionic_army = {
+			$armypsionic
+		}
+		xenomorph_army = {
+			$armyxenomorph
+		}
+		gene_warrior_army = {
+			$armygenewarrior
+		}
+		occupation_army = {
+			$armyoccupation
+		}
+		individual_machine_occupation_army = {
+			$armyindividualmachineoccupation
+		}
+		robotic_occupation_army = {
+			$armyroboticoccupation
+		}
+		primitive_army = {
+			$armyprimitive
+		}
+		industrial_army = {
+			$armyindustrial
+		}
+		postatomic_army = {
+			$armypostatomic
+		}
+		machine_assault_1 = {
+			$armymachineassault1
+		}
+		machine_assault_2 = {
+			$armymachineassault2
+		}
+		machine_assault_3 = {
+			$armymachineassault3
+		}
+		warpling_army = {
+			$armywarpling
+		}
+	}
+	planet_names = {
+		generic = {
+			names = {
+				$planetgeneral
+			}
+		}
+		pc_desert = {
+			names = {
+				$planetdesert
+			}
+		}
+		pc_tropical = {
+			names = {
+				$planettropical
+			}
+		}
+		pc_arid = {
+			names = {
+				$planetarid
+			}
+		}
+		pc_continental = {
+			names = {
+				$planetcontinental
+			}
+		}
+		pc_ocean = {
+			names = {
+				$planetocean
+			}
+		}
+		pc_tundra = {
+			names = {
+				$planettundra
+			}
+		}
+		pc_arctic = {
+			names = {
+				$planetarctic
+			}
+		}
+		pc_savannah = {
+			names = {
+				$planetsavannah
+			}
+		}
+		pc_alpine = {
+			names = {
+				$planetalpine
+			}
+		}
+	}
+
+	character_names = {
+		default = {
+			full_names = {
+				$characterfullgeneral
+			}
+			full_names_female = {
+				$characterfullfemale
+			}
+			full_names_male = {
+				$characterfullmale
+			}
+			first_names = {
+				$characterfirstgeneral
+			}
+			first_names_female = {
+				$characterfirstfemale
+			}
+			first_names_male = {
+				$characterfirstmale
+			}
+			second_names = {
+				$charactersecondgeneral
+			}
+			second_names_female = {
+				$charactersecondfemale
+			}
+			second_names_male = {
+				$charactersecondmale
+			}
+			regnal_full_names = {
+				$characterregnalfullgeneral
+			}
+			regnal_full_names_female = {
+				$characterregnalfullfemale
+			}
+			regnal_full_names_male = {
+				$characterregnalfullmale
+			}
+			regnal_first_names = {
+				$characterregnalfirstgeneral
+			}
+			regnal_first_names_female = {
+				$characterregnalfirstfemale
+			}
+			regnal_first_names_male = {
+				$characterregnalfirstmale
+			}
+			regnal_second_names = {
+				$characterregnalsecondgeneral
+			}
+			regnal_second_names_female = {
+				$characterregnalsecondfemale
+			}
+			regnal_second_names_male = {
+				$characterregnalsecondmale
+			}
+		}
+	}
+}
