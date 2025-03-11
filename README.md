@@ -10,7 +10,9 @@ Have fun and goodluck with your runs!
 *********************************************************************************************
 
 IMPORTANT NOTES: 
+
 TOOL NEEDS PYTHON 3.13 OR NEWER (https://www.python.org/downloads/)
+
 MAKE SURE TO RUN INSTALL COMMAND FOR LIBRARIES (e.g. pip install pandas openpyxl requests)
 
 *********************************************************************************************
