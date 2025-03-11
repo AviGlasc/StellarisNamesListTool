@@ -3,9 +3,8 @@ Hello! And welcome to Avi's Stellaris NamesList Tool, I've tried to design the s
 Getting Started:
 Copy this google sheet(https://docs.google.com/spreadsheets/d/1GpY67q_PQ5TbjV4x9hqWE4KWJxhgVF0coUvGhxl-C4o/edit?usp=sharing)
 	
- Share this copy with your playgroup and give them editing perms
- 	
-  There's a 'tutorial' page with all of the tutorials, tips, limitations, and warnings
+ *Share this copy with your playgroup and give them editing perms
+ *There's a 'tutorial' page with all of the tutorials, tips, limitations, and warnings
 
 Download the tool by clicking "code<>" > "download zip" 
   
