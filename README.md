@@ -7,6 +7,13 @@ To get started, open up and make a copy of this google sheet(https://docs.google
 If you have any problems I can provide limited assistance providing that I have the time/energy, contact me with bugs/suggestions/help requests at my email: avilynnglasc@gmail.com
 Have fun and goodluck with your runs!
 
+*********************************************************************************************
+
+IMPORTANT NOTES: 
+TOOL NEEDS PYTHON 3.13 OR NEWER (https://www.python.org/downloads/)
+MAKE SURE TO RUN INSTALL COMMAND FOR LIBRARIES (e.g. pip install pandas openpyxl requests)
+
+*********************************************************************************************
 Planned Expansions:
   Sequential Naming support (requires localization file integration) (complete!)
   Error check for incorrectly edited sheets
